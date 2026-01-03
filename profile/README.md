@@ -1,31 +1,12 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/91317568?s=64&v=4" alt="opral icon">
-  <p align="center">
-    <a href='https://twitter.com/opralHQ' target="_blank">𝕏 Twitter</a>
-    ·
-    <a href='https://discord.gg/gdMPPWy57R' target="_blank">💬 Discord</a>
-  </p>
-</p>
+# Welcome 👋
 
-Welcome to Opral's repository. 
+Opral is the organization behind two main products: 
 
-[./lix](./packages/lix/sdk) - **change control system** </br>
-[./inlang](./inlang) - **globalization ecosystem** for software   
+1. [lix](https://github.com/opral/lix) - universal version control system
+2. [inlang](https://github.com/opral/inlang) - open file format for localization of software (i18n)
 
----
+## Community
 
-#### Quicklinks
+- [Discord](https://discord.gg/MZ48XgXKkk)
+- [X (Twitter)](https://x.com/opralHQ)
 
-| Link             | Description   |
-|------------------------|---------------|
-| [./careers](./careers) | Open positions @ Opral |
-| [./contributing](./CONTRIBUTING.md) | Contribute to inlang or lix |
-| [Official Discord](https://discord.gg/gdMPPWy57R) | Join our official Discord |
-| [Discussions](https://github.com/opral/monorepo/discussions) | Discuss new features |
-| [inlang.com](https://inlang.com/) | Search through the ecosystem |
-
-#### Support
-
-If you need support for inlang, one of inlang's products or lix, we encourage you to join our [Discord](https://discord.gg/gdMPPWy57R) where we usually respond and help as soon as possible.
-
-Do you have a request that has to do with security, privacy-related, or other non-related issues? Find our [security policy here](https://github.com/opral/monorepo/security/policy) or contact us via e-mail: `hello@opral.com`.
