@@ -1,9 +1,10 @@
 # Welcome 👋
 
-Opral is the organization behind two main products: 
+Opral is the organization behind: 
 
-1. [lix](https://github.com/opral/lix) - embeddable version control system
-2. [inlang](https://github.com/opral/inlang) - open file format for localization of software (i18n)
+1. [flashtype](https://github.com/opral/flashtype) - markdown editor
+2. [lix](https://github.com/opral/lix) - version control system
+3. [inlang](https://github.com/opral/inlang) - open file format for localization of software (i18n)
 
 ## Community
 
